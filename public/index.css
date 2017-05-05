@@ -1,0 +1,11 @@
+.today-card {
+  display: inline-block;
+  width: 100%;
+  height: 500px;
+}
+.today-card > .mdl-card__title {
+  height: 60px;
+}
+.today-card > .mdl-card__title-text {
+  font-weight: bold;
+}
